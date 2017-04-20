@@ -1,0 +1,4 @@
+br/com/marcia/loja/repository/ProdutoRepository.class
+br/com/marcia/loja/resource/ProdutoResource.class
+br/com/marcia/loja/App.class
+br/com/marcia/loja/model/Produto.class
